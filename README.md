@@ -2,6 +2,8 @@
 
 Nice to meet you, my name is Leonardo, a versatile Software Engineer with strong experience in modern full-stack web and mobile development, specializing in the TypeScript ecosystem, including Angular, React, and NestJS, with solid .NET and cloud expertise.
 
+![Dog](./hipo.png)
+
 # 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=leonardoferri1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
